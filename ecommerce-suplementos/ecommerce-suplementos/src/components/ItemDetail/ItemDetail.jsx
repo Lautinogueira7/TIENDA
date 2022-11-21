@@ -1,5 +1,7 @@
-export const ItemDetail = () => {
+const ItemDetail = () => {
   return (
     <div>ItemDetail</div>
   )
 }
+
+export default ItemDetail

@@ -6,10 +6,11 @@
     justify-content: space-evenly;
     margin: 10px;
     width: 20rem;
-    padding: 2px 16px;
+    padding: 2px 10px;
     position: relative;
     box-shadow: 0 4px 8px 0 rgba(0,0,0,0.4);
     background-color: white;
+    float: left;
 }
 
 .card body{
@@ -18,5 +19,5 @@
 }
 
 .img-fluid{
-    height: 175px;
+    height: 100px;
 }
